@@ -318,7 +318,11 @@ acxx_demangle.h
 
 ../src/BaseTypes.h
 
-../src/Executor.h
+../src/Decoder.h
+Instruction.h
+../src/Instruction.h
+
+../src/Instruction.cpp
 Instruction.h
 ../src/Instruction.h
 
@@ -338,13 +342,13 @@ cstddef
 cstdlib
 -
 
-/Users/anton/Programming/CLionProjects/ACS/acs-spring-l2/MyUnits/Tests/AllTestsForExecuter.cpp
+/Users/anton/Programming/CLionProjects/ACS/acs-spring-l2/MyUnits/Tests/AllTestsForDecoder.cpp
 gtest/gtest.h
 -
-Executor.h
-/Users/anton/Programming/CLionProjects/ACS/acs-spring-l2/MyUnits/Tests/Executor.h
-Instruction.h
--
+Decoder.h
+/Users/anton/Programming/CLionProjects/ACS/acs-spring-l2/MyUnits/Tests/Decoder.h
 BaseTypes.h
--
+/Users/anton/Programming/CLionProjects/ACS/acs-spring-l2/MyUnits/Tests/BaseTypes.h
+Instruction.cpp
+/Users/anton/Programming/CLionProjects/ACS/acs-spring-l2/MyUnits/Tests/Instruction.cpp
 

@@ -188,5 +188,10 @@ namespace MyUnits
         ASSERT_TRUE(CheckDecoderForBGEUInstraction(instr, CHECK_RS1, CHECK_RS2, CHECK_IMM, FUNC));
     }
 
+
+    TEST_F(DataFixture, TestDeocderForBGEU3)
+    {
+
+    }
 }
 
